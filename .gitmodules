@@ -1,3 +1,6 @@
 [submodule "SafarGov"]
 	path = SafarGov
 	url = https://github.com/ShubhraRao/SafarGov.git
+[submodule "YoloV3_DeepLearning"]
+	path = YoloV3_DeepLearning
+	url = https://github.com/ShubhraRao/YoloV3_DeepLearning.git
