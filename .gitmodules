@@ -1,0 +1,3 @@
+[submodule "SafarGov"]
+	path = SafarGov
+	url = https://github.com/ShubhraRao/SafarGov.git
