@@ -4,3 +4,6 @@
 [submodule "YoloV3_DeepLearning"]
 	path = YoloV3_DeepLearning
 	url = https://github.com/ShubhraRao/YoloV3_DeepLearning.git
+[submodule "SafarPublic"]
+	path = SafarPublic
+	url = https://github.com/ShubhraRao/SafarPublic.git
