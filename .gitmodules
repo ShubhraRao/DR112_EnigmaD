@@ -7,3 +7,6 @@
 [submodule "SafarPublic"]
 	path = SafarPublic
 	url = https://github.com/ShubhraRao/SafarPublic.git
+[submodule "DetectionsAPI"]
+	path = DetectionsAPI
+	url = https://github.com/ShubhraRao/DetectionsAPI.git
